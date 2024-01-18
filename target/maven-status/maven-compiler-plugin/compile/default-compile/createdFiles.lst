@@ -1,0 +1,5 @@
+com\cedula\ups\UpsApplication.class
+com\cedula\ups\CedulaRepository.class
+com\cedula\ups\CedulaController.class
+com\cedula\ups\Cedula.class
+com\cedula\ups\SwaggerConfig.class
