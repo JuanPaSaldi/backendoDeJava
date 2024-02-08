@@ -1,8 +1,10 @@
+package com.cedula.ups;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-@RequestController
-@RequestMapping("/redis)
+@RestController
+@RequestMapping("/redis")
 public class RedisController{
 
 	@Autowired

@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://3.147.64.135:3306/virtualdm
+    username: juanpa
+    password: juanpis123
+    driver-class-name: com.mysql.cj.jdbc.Driver
